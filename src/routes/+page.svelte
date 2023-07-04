@@ -1,7 +1,7 @@
-<h1> Vítajte na stránke src/routes/ +page.svelte </h1>
+<h1> SK - Vítajte na stránke src/routes/ +page.svelte </h1>
 
 <p>
-  Je veľmi jednoduché publikovať projekt SvelteKit na stránkach GitHub. Pred spustením vytvorte úložisko GitHub.
+  SK - Je veľmi jednoduché publikovať projekt SvelteKit na stránkach GitHub. Pred spustením vytvorte úložisko GitHub.
 </p>
 
 <ul>
