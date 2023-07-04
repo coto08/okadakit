@@ -1,7 +1,7 @@
 <h1> Vítajte na stránke src/routes/ +page.svelte </h1>
 
 <p>
-  It is super easy to publish SvelteKit project on GitHub Pages. Create a GitHub repo before starting this.
+  Je veľmi jednoduché publikovať projekt SvelteKit na stránkach GitHub. Pred spustením vytvorte úložisko GitHub.
 </p>
 
 <ul>
