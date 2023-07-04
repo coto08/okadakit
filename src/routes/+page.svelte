@@ -6,7 +6,7 @@
 
 <ul>
   <li>
-    Install SvelteKit
+    SK - Nainštalujte: Install SvelteKit
   </li>
   <li>
     Install @sveltejs/adapter-static and gh-pages. `npm i -D @sveltejs/adapter-static gh-pages`
