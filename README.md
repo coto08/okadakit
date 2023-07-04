@@ -1,3 +1,4 @@
+<h1> Toto je súbor READMI </h1>
 <h1>Welcome to SvelteKit + GitHub Pages</h1>
 
 It is super easy to publish SvelteKit project on GitHub Pages. Create a GitHub repo before starting this.
