@@ -1,4 +1,4 @@
-<h1>Welcome to SvelteKit + GitHub Pages</h1>
+<h1> Vítajte na stránke src/routes/ +page.svelte </h1>
 
 <p>
   It is super easy to publish SvelteKit project on GitHub Pages. Create a GitHub repo before starting this.
