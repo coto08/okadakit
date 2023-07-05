@@ -19,30 +19,34 @@
 
 			
 
-<h1> SK - tento text je:
+<h1> SK - tento text je: </h1>
+<p>
 	<br> repozitár: okadakit
 	<br> vetva: gh-pages
 	<br> dokument: index.html
+</p>
 	
-</h1>
-
-<p> SK - a tu je ďalší text... It is super easy to publish SvelteKit project on GitHub Pages. Create a GitHub repo before starting this.
+<p>
+okadakit/ index.html in gh-pages
 </p>
 
-<ul><li>Install SvelteKit
+<p> SK - a tu je ďalší text... 
+</p>
+
+<ul><li> Nainštalujte SvelteKit
   </li>
-  <li>Install @sveltejs/adapter-static and gh-pages. `npm i -D @sveltejs/adapter-static gh-pages`
+  <li> Nainštalujte @sveltejs/adapter-static and gh-pages. `npm i -D @sveltejs/adapter-static gh-pages`
   </li>
-  <li>Update svelte.config.js by changing adapter-auto to adaptor-static.
+  <li> Aktualizujte súbor svelte.config.js zmenou adaptéra-auto na adaptér-statický.
    `import adapter from &#39;@sveltejs/adapter-static&#39;;`
   </li>
-  <li>Add the following to `src/routes/+layout.js`
+  <li> Pridajte nasledujúce do súboru `src/routes/+layout.js`
     `export const prerender = true;`
   </li>
-  <li>Add a script to package.json. `&quot;gh-pages&quot;: &quot;npm run build &amp;&amp; npx gh-pages -d build&quot;`
+  <li> Pridajte skript do súboru package.json. `&quot;gh-pages&quot;: &quot;npm run build &amp;&amp; npx gh-pages -d build&quot;`
   </li></ul>
 
-<p>Now you just need to run `npm run gh-pages`.
+<p> Teraz stačí spustiť `npm run gh-pages`.
 </p>
 
 
