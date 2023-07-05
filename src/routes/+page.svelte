@@ -1,12 +1,12 @@
 <h1> SK - Vítajte na stránke src/routes/ +page.svelte </h1>
 
 <p>
-  SK - Je veľmi jednoduché publikovať projekt SvelteKit na stránkach GitHub. Pred spustením vytvorte úložisko GitHub.
+  SK - Tento text sa však nezobrazuje na webe !!! 
 </p>
 
 <ul>
   <li>
-    SK - Nainštalujte: Install SvelteKit
+    SK - Nainštalujte - len všeobecný popis
   </li>
   <li>
     Install @sveltejs/adapter-static and gh-pages. `npm i -D @sveltejs/adapter-static gh-pages`
